@@ -24,7 +24,7 @@ public class VStest {
                     System.out.println("Indtast b.");
                     double b1 = input.nextDouble();
 
-                    System.out.println("Svaret er: " + (a1 * b1));
+                    System.out.println("Svaret er: " + (a1 + b1));
 
                     break;
                 case 2:
