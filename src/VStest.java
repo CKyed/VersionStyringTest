@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class VStest {
-
+//Hej fra Master
     public static void main(String[] args) {
         boolean X = true;
         while (X) {
